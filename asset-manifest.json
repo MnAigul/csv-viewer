@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/csv-viewer/static/css/main.0f22e0ec.css",
+    "main.js": "/csv-viewer/static/js/main.d3026a88.js",
+    "index.html": "/csv-viewer/index.html",
+    "main.0f22e0ec.css.map": "/csv-viewer/static/css/main.0f22e0ec.css.map",
+    "main.d3026a88.js.map": "/csv-viewer/static/js/main.d3026a88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f22e0ec.css",
+    "static/js/main.d3026a88.js"
+  ]
+}
